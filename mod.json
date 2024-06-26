@@ -6,12 +6,12 @@
 		"win": "2.206"
 	},
 	"version": "v1.0.5",
-	"id": "acaruso.pride",
-	"name": "Pride Trails",
-	"developer": "acaruso",
-	"description": "Show your stripes!",
+	"id": "elnoobo.glowytrail",
+	"name": "Glowy Trail",
+	"developer": "acaruso + ElNoobO",
+	"description": "Cool glowy trail ! (thank to acaruso)",
 	"tags": [ "enhancement", "customization" ],
-	"repository": "https://github.com/acaruso-xx/pride-geode",
+	"repository": "https://github.com/ElNoob0/New-Glowy-trail-geode",
 
 	"resources": {
 		"files": [
